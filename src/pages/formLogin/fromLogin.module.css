@@ -1,0 +1,21 @@
+.form {
+    text-align: center;
+    padding: 10px;
+    width: 30vw;
+    height: 70vh;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 10px;
+}
+.form h1{
+    padding: 15px;
+    font-weight:bold;
+    font-size: 2em
+}
+.form a {
+    color:blue;
+}
+.form p {
+    margin: 20px;
+
+
+}
